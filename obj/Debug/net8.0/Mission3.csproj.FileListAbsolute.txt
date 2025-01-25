@@ -1,0 +1,14 @@
+/Users/andieclegg/RiderProjects/Mission3/bin/Debug/net8.0/Mission3
+/Users/andieclegg/RiderProjects/Mission3/bin/Debug/net8.0/Mission3.deps.json
+/Users/andieclegg/RiderProjects/Mission3/bin/Debug/net8.0/Mission3.runtimeconfig.json
+/Users/andieclegg/RiderProjects/Mission3/bin/Debug/net8.0/Mission3.dll
+/Users/andieclegg/RiderProjects/Mission3/bin/Debug/net8.0/Mission3.pdb
+/Users/andieclegg/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andieclegg/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.AssemblyInfoInputs.cache
+/Users/andieclegg/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.AssemblyInfo.cs
+/Users/andieclegg/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.csproj.CoreCompileInputs.cache
+/Users/andieclegg/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.dll
+/Users/andieclegg/RiderProjects/Mission3/obj/Debug/net8.0/refint/Mission3.dll
+/Users/andieclegg/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.pdb
+/Users/andieclegg/RiderProjects/Mission3/obj/Debug/net8.0/Mission3.genruntimeconfig.cache
+/Users/andieclegg/RiderProjects/Mission3/obj/Debug/net8.0/ref/Mission3.dll
